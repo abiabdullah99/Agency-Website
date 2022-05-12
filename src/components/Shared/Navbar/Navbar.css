@@ -1,0 +1,19 @@
+.active-link {
+  font-size: 21px;
+  transition: color ease-in-out 300ms;
+  color: #111430;
+  font-weight: 600;
+  transition: all 0.4s ease-in-out;
+  border-bottom: 2px solid #111430;
+}
+.navbar {
+  background: #fbd062;
+}
+.link {
+  color: #111430;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
